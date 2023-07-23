@@ -1,10 +1,9 @@
 * pg
 
+Socket level interface to the PostgreSQL RDBMS for Common Lisp
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/pg/pg.git   |
-| commit  |   |
-| systems | pg |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/pg/pg.git |
+| commit  | 0375f69                                      |
+| systems | pg                                           |
+|---------+----------------------------------------------|
